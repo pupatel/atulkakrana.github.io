@@ -12,15 +12,6 @@ description:      'A brazen two-column'
 url:              http://atulkakrana.github.io
 baseurl:          /
 
-# Social Buttons
-social:
-  - title: "github"
-    url: "https://github.com/atulkakrana"
-  - title: "google scholar"
-    url: "https://scholar.google.com/citations?user=virwGJEAAAAJ&hl=en&authuser=1"
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/atulkakrana"
-
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
