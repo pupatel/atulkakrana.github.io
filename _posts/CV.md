@@ -1,0 +1,1846 @@
+---
+layout: page
+title: 
+---
+
+
+<div id="_0:0" class="pos" style="top:0">
+
+![](page_001.jpg){width="850" height="1100"}
+
+</div>
+
+<div id="_368:66" class="pos" style="top:66;left:368">
+
+<span id="_20.4"
+style=" font-family:Times New Roman; font-size:20.4px; color:#000000">
+Atul Kakrana</span>
+
+</div>
+
+<div id="_57:88" class="pos" style="top:88;left:57">
+
+<span id="_14.3"
+style=" font-family:Arial; font-size:14.3px; color:#000000"> Suite 224,
+15<span id="_9.1" style=" font-size:9.1px"> th</span> Innovation
+Way</span>
+
+</div>
+
+<div id="_697:88" class="pos" style="top:88;left:697">
+
+<span id="_14.3"
+style=" font-family:Arial; font-size:14.3px; color:#000000"> (302)
+784-5478</span>
+
+</div>
+
+<div id="_57:107" class="pos" style="top:107;left:57">
+
+<span id="_14.3"
+style=" font-family:Arial; font-size:14.3px; color:#000000"> Delaware
+Biotechnology Institute,</span>
+
+</div>
+
+<div id="_674:107" class="pos" style="top:107;left:674">
+
+<span id="_14.3"
+style=" font-family:Arial; font-size:14.3px; color:#000000">
+kakrana@udel.edu</span>
+
+</div>
+
+<div id="_57:126" class="pos" style="top:126;left:57">
+
+<span id="_14.3"
+style=" font-family:Arial; font-size:14.3px; color:#000000"> Newark,
+DE</span>
+
+</div>
+
+<div id="_531:126" class="pos" style="top:126;left:531">
+
+<span id="_14.9"
+style=" font-family:Arial; font-size:14.9px; color:#0000ff">
+https://www.linkedin.com/in/atulkakrana</span>
+
+</div>
+
+<div id="_57:163" class="pos" style="top:163;left:57">
+
+<span id="_16.3"
+style="font-weight:bold; font-family:Arial; font-size:16.3px; color:#000000">
+Education</span>
+
+</div>
+
+<div id="_57:183" class="pos" style="top:183;left:57">
+
+<span id="_14.9"
+style=" font-family:Arial; font-size:14.9px; color:#000000">
+2011-</span>
+
+</div>
+
+<div id="_120:183" class="pos" style="top:183;left:120">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Doctor of
+Philosophy (PhD.) in<span style="font-weight:bold">
+Bioinformatics</span><span style="font-weight:bold"> and</span><span
+style="font-weight:bold"> Systems</span><span style="font-weight:bold">
+Biology</span> from<span style="font-style:italic">
+University</span><span style="font-style:italic"> of</span><span
+style="font-style:italic"> Delaware</span> , USA</span>
+
+</div>
+
+<div id="_57:202" class="pos" style="top:202;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+present</span>
+
+</div>
+
+<div id="_120:202" class="pos" style="top:202;left:120">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Advisor:
+Blake Meyers, GPA-3.8/4</span>
+
+</div>
+
+<div id="_57:221" class="pos" style="top:221;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> 2007</span>
+
+</div>
+
+<div id="_120:221" class="pos" style="top:221;left:120">
+
+<span id="_14.3"
+style=" font-family:Arial; font-size:14.3px; color:#000000"> Master of
+Science (MS with Hons.) from<span style="font-style:italic">
+Allahabad</span><span style="font-style:italic">
+Agricultural</span><span style="font-style:italic"> Institute</span> ,
+India</span>
+
+</div>
+
+<div id="_120:239" class="pos" style="top:239;left:120">
+
+<span id="_14.3"
+style="font-weight:bold; font-family:Arial; font-size:14.3px; color:#000000">
+Major in Biochemistry<span style="font-weight:normal"> ,</span><span
+style="font-weight:normal"> GPA-</span><span style="font-weight:normal">
+8.8/10</span></span>
+
+</div>
+
+<div id="_57:258" class="pos" style="top:258;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> 2005</span>
+
+</div>
+
+<div id="_120:258" class="pos" style="top:258;left:120">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Bachelor of
+Science (BS) from<span style="font-style:italic"> Bangalore</span><span
+style="font-style:italic"> University,</span> India</span>
+
+</div>
+
+<div id="_120:277" class="pos" style="top:277;left:120">
+
+<span id="_14.0"
+style="font-weight:bold; font-family:Arial; font-size:14.0px; color:#000000">
+Major in Biotechnology<span style="font-weight:normal"> ,</span><span
+style="font-weight:normal"> Aggregate</span><span
+style="font-weight:normal"> Percentage-64%</span></span>
+
+</div>
+
+<div id="_57:314" class="pos" style="top:314;left:57">
+
+<span id="_15.3"
+style="font-weight:bold; font-family:Arial; font-size:15.3px; color:#000000">
+Research Experience<span id="_14.0"
+style="font-weight:normal; font-size:14.0px">
+(Project-based)</span></span>
+
+</div>
+
+<div id="_57:334" class="pos" style="top:334;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+2011-</span>
+
+</div>
+
+<div id="_120:334" class="pos" style="top:334;left:120">
+
+<span id="_14.1"
+style="font-weight:bold; font-family:Arial; font-size:14.1px; color:#000000">
+Graduate Research Assistant<span style="font-weight:normal"> for</span>
+Dr. Blake Meyers<span style="font-weight:normal"> at</span><span
+style="font-weight:normal;font-style:italic"> Delaware</span><span
+style="font-weight:normal;font-style:italic"> Biotechnology</span><span
+style="font-weight:normal;font-style:italic"> Institute,</span><span
+style="font-weight:normal;font-style:italic"> DE</span><span
+style="font-weight:normal;font-style:italic"> and</span><span
+style="font-weight:normal;font-style:italic"> Donald</span></span>
+
+</div>
+
+<div id="_57:353" class="pos" style="top:353;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+present</span>
+
+</div>
+
+<div id="_120:353" class="pos" style="top:353;left:120">
+
+<span id="_14.0"
+style="font-style:italic; font-family:Arial; font-size:14.0px; color:#000000">
+Danforth Plant Science Center<span style="font-style:normal">
+,</span><span style="font-style:normal"> MO</span></span>
+
+</div>
+
+<div id="_120:371" class="pos" style="top:371;left:120">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Prior and
+current research includes:</span>
+
+</div>
+
+<div id="_120:390" class="pos" style="top:390;left:120">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> \[1\]
+Development of high-performance tools for next-generating sequencing
+data analyses, specifically, for</span>
+
+</div>
+
+<div id="_120:409" class="pos" style="top:409;left:120">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> miRNA
+target prediction and validation, and identifying phased-siRNA
+studies</span>
+
+</div>
+
+<div id="_120:427" class="pos" style="top:427;left:120">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> \[2\]
+Evolutionary study of plant phasiRNAs pathways in novel plant species
+focusing on their prevalence,</span>
+
+</div>
+
+<div id="_120:446" class="pos" style="top:446;left:120">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> biogenesis
+mechanisms and origins; and</span>
+
+</div>
+
+<div id="_120:465" class="pos" style="top:465;left:120">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> \[3\]
+Development of<span style="font-style:italic"> in</span><span
+style="font-style:italic"> silico</span> approaches to identify
+(mammalian) diseases-related genes and variants through</span>
+
+</div>
+
+<div id="_120:483" class="pos" style="top:483;left:120">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> systems
+biology and machine learning approaches.</span>
+
+</div>
+
+<div id="_57:508" class="pos" style="top:508;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+2008-</span>
+
+</div>
+
+<div id="_120:508" class="pos" style="top:508;left:120">
+
+<span id="_14.0"
+style="font-weight:bold; font-family:Arial; font-size:14.0px; color:#000000">
+Senior Research Fellow<span style="font-weight:normal"> under</span> Dr.
+R. Srinivasan<span style="font-weight:normal"> at</span><span
+style="font-weight:normal;font-style:italic"> National</span><span
+style="font-weight:normal;font-style:italic"> Research</span><span
+style="font-weight:normal;font-style:italic"> Centre</span><span
+style="font-weight:normal;font-style:italic"> on</span><span
+style="font-weight:normal;font-style:italic"> Plant</span><span
+style="font-weight:normal;font-style:italic"> Biotechnology</span><span
+style="font-weight:normal"> (New</span></span>
+
+</div>
+
+<div id="_57:526" class="pos" style="top:526;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> 2011</span>
+
+</div>
+
+<div id="_120:526" class="pos" style="top:526;left:120">
+
+<span id="_14.4"
+style=" font-family:Arial; font-size:14.4px; color:#000000"> Delhi),
+India in project funded by NAIP and World bank.</span>
+
+</div>
+
+<div id="_120:545" class="pos" style="top:545;left:120">
+
+<span id="_14.4"
+style=" font-family:Arial; font-size:14.4px; color:#000000"> \[1\]
+Developed novel<span style="font-style:italic"> in</span><span
+style="font-style:italic"> silico</span> approach to identify
+nematode-responsive and root-specific (NRRS) plant gene</span>
+
+</div>
+
+<div id="_120:564" class="pos" style="top:564;left:120">
+
+<span id="_14.4"
+style=" font-family:Arial; font-size:14.4px; color:#000000"> promoters
+to enable host-mediated silencing of plant parasitic nematodes.</span>
+
+</div>
+
+<div id="_120:582" class="pos" style="top:582;left:120">
+
+<span id="_14.4"
+style=" font-family:Arial; font-size:14.4px; color:#000000"> \[2\]
+Performed molecular-cloning of promoters, and generated constructs for
+transformation and field testing</span>
+
+</div>
+
+<div id="_120:601" class="pos" style="top:601;left:120">
+
+<span id="_14.4"
+style=" font-family:Arial; font-size:14.4px; color:#000000"> \[3\]
+Additional roles included Project-, Lab- and Greenhouse-
+Incharge.</span>
+
+</div>
+
+<div id="_57:625" class="pos" style="top:625;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> 2008</span>
+
+</div>
+
+<div id="_120:625" class="pos" style="top:625;left:120">
+
+<span id="_14.2"
+style="font-weight:bold; font-family:Arial; font-size:14.2px; color:#000000">
+Information Officer<span style="font-weight:normal"> at</span><span
+style="font-weight:normal;font-style:italic"> National</span><span
+style="font-weight:normal;font-style:italic"> Institute</span><span
+style="font-weight:normal;font-style:italic"> of</span><span
+style="font-weight:normal;font-style:italic"> Plant</span><span
+style="font-weight:normal;font-style:italic"> Genome</span><span
+style="font-weight:normal;font-style:italic"> Research</span><span
+style="font-weight:normal"> (New</span><span style="font-weight:normal">
+Delhi),</span><span style="font-weight:normal"> India</span></span>
+
+</div>
+
+<div id="_120:644" class="pos" style="top:644;left:120">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> Supervised
+information system and communications network, and provided
+technological guidance to</span>
+
+</div>
+
+<div id="_120:662" class="pos" style="top:662;left:120">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000">
+organization. Additional responsibilities included role as
+bioinformatics support for research and grants.</span>
+
+</div>
+
+<div id="_57:701" class="pos" style="top:701;left:57">
+
+<span id="_14.7"
+style="font-weight:bold; font-family:Arial; font-size:14.7px; color:#000000">
+Awards and Scholarships</span>
+
+</div>
+
+<div id="_57:721" class="pos" style="top:721;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[4\]</span>
+
+</div>
+
+<div id="_89:721" class="pos" style="top:721;left:89">
+
+<span id="_14.3"
+style=" font-family:Arial; font-size:14.3px; color:#000000"> University
+Competitive Fellow Award, University of Delaware, March-2015</span>
+
+</div>
+
+<div id="_57:740" class="pos" style="top:740;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[3\]</span>
+
+</div>
+
+<div id="_89:740" class="pos" style="top:740;left:89">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000">
+Professional Development Award, University of Delaware, April- 2014 and
+2015</span>
+
+</div>
+
+<div id="_57:758" class="pos" style="top:758;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[2\]</span>
+
+</div>
+
+<div id="_89:758" class="pos" style="top:758;left:89">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> Provost
+scholarship for graduate studies at Oregon State University,
+Feb-2011</span>
+
+</div>
+
+<div id="_57:777" class="pos" style="top:777;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[1\]</span>
+
+</div>
+
+<div id="_89:777" class="pos" style="top:777;left:89">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> Senior
+Research Fellowship, Indian Council of Agricultural Research, India,
+April- 2008 till 2011</span>
+
+</div>
+
+<div id="_57:814" class="pos" style="top:814;left:57">
+
+<span id="_14.8"
+style="font-weight:bold; font-family:Arial; font-size:14.8px; color:#000000">
+Patents Filed</span>
+
+</div>
+
+<div id="_32:835" class="pos" style="top:835;left:32">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> </span>
+\[2\]
+
+</div>
+
+<div id="_89:835" class="pos" style="top:835;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> Jain
+PK,<span style="font-weight:bold"> Kakrana</span><span
+style="font-weight:bold"> A</span> , Kumar A, Sirohi A and Srinivasan
+(2015) Polynucleotide fragments for directing expression of</span>
+
+</div>
+
+<div id="_89:853" class="pos" style="top:853;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> genes in
+plant roots in response to pathogens, and wounding<span
+style="font-weight:bold"> (\*Indian</span><span
+style="font-weight:bold"> Patent-2245/Del/2015)</span></span>
+
+</div>
+
+<div id="_57:872" class="pos" style="top:872;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[1\]</span>
+
+</div>
+
+<div id="_89:872" class="pos" style="top:872;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> Jain
+PK,<span style="font-weight:bold"> Kakrana</span><span
+style="font-weight:bold"> A</span> , Kumar A, Sirohi A and Srinivasan
+(2015) Polynucleotide fragments for directing expression of</span>
+
+</div>
+
+<div id="_89:890" class="pos" style="top:890;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> genes in
+plant roots in response to pathogens<span style="font-weight:bold">
+(\*Indian</span><span style="font-weight:bold">
+Patent-2246/Del/2015)</span></span>
+
+</div>
+
+<div id="_57:928" class="pos" style="top:928;left:57">
+
+<span id="_14.9"
+style="font-weight:bold; font-family:Arial; font-size:14.9px; color:#000000">
+Peer-reviewed Publications</span>
+
+</div>
+
+<div id="_57:948" class="pos" style="top:948;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[9\]</span>
+
+</div>
+
+<div id="_89:948" class="pos" style="top:948;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> Mathioni
+S,<span style="font-weight:bold"> Kakrana</span><span
+style="font-weight:bold"> A</span> , Meyers BC (2016) Characterization
+of Plant Small RNAs by Next Generation Sequencing.</span>
+
+</div>
+
+<div id="_89:967" class="pos" style="top:967;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> (<span
+style="font-style:italic"> Under</span><span style="font-style:italic">
+review</span> )</span>
+
+</div>
+
+<div id="_57:987" class="pos" style="top:987;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[8\]</span>
+
+</div>
+
+<div id="_89:987" class="pos" style="top:987;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Harkess A,
+Zhou J, Xu C,<span style="font-weight:bold"> Kakrana</span><span
+style="font-weight:bold"> A</span> , Meyers BC, Leebens-Mack J (2016)
+The evolution of sex chromosomes in</span>
+
+</div>
+
+<div id="_89:1005" class="pos" style="top:1005;left:89">
+
+<span id="_14.0"
+style="font-style:italic; font-family:Arial; font-size:14.0px; color:#000000">
+Asparagus<span style="font-style:normal"> .</span><span
+style="font-style:normal"> (</span> Under review<span
+style="font-style:normal"> )</span><span
+style="font-weight:bold;font-style:normal"> (\*Plant</span><span
+style="font-weight:bold;font-style:normal"> genome</span><span
+style="font-weight:bold;font-style:normal"> sequencing</span><span
+style="font-weight:bold;font-style:normal"> report)</span></span>
+
+</div>
+
+<div id="_748:1032" class="pos" style="top:1032;left:748">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> Page |
+1</span>
+
+</div>
+
+<div id="_0:0" class="pos" style="top:1100">
+
+![](page_002.jpg){width="850" height="1100"}
+
+</div>
+
+<div id="_57:1166" class="pos" style="top:1166;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[7\]</span>
+
+</div>
+
+<div id="_89:1166" class="pos" style="top:1166;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Patel P,
+Ramachandruni SD,<span style="font-weight:bold"> Kakrana</span><span
+style="font-weight:bold"> A,</span> Nakano M, Meyers BC (2015) miTRATA:
+a web-based tool for microRNA</span>
+
+</div>
+
+<div id="_89:1185" class="pos" style="top:1185;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Truncation
+and Tailing Analysis.<span style="font-style:italic">
+Bioinformatics</span> . 1;32(3):450-2</span>
+
+</div>
+
+<div id="_57:1205" class="pos" style="top:1205;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[6\]</span>
+
+</div>
+
+<div id="_89:1205" class="pos" style="top:1205;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> Agrawal SA,
+Anand D,<span style="font-weight:bold"> Kakrana</span><span
+style="font-weight:bold"> A</span> , David A, Lachke SA (2015) Compound
+mouse mutants of bZIP transcription</span>
+
+</div>
+
+<div id="_89:1224" class="pos" style="top:1224;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> factors
+MafG and MafK reveal a regulatory network of non-crystallin genes
+associated with cataract.<span style="font-style:italic">
+Hum.</span><span style="font-style:italic"> Genet.</span></span>
+
+</div>
+
+<div id="_89:1242" class="pos" style="top:1242;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000">
+134(7):717-35</span>
+
+</div>
+
+<div id="_57:1261" class="pos" style="top:1261;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[5\]</span>
+
+</div>
+
+<div id="_89:1261" class="pos" style="top:1261;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Arikit S,
+Xia R,<span style="font-weight:bold"> Kakrana</span><span
+style="font-weight:bold"> A,</span> et al (2014) An Atlas of Soybean
+Small RNAs Identifies Phased siRNAs from Hundreds of</span>
+
+</div>
+
+<div id="_89:1280" class="pos" style="top:1280;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Coding
+Genes.<span style="font-style:italic"> Plant</span><span
+style="font-style:italic"> Cell</span> . 26(12):4584-601</span>
+
+</div>
+
+<div id="_57:1300" class="pos" style="top:1300;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[4\]</span>
+
+</div>
+
+<div id="_89:1300" class="pos" style="top:1300;left:89">
+
+<span id="_14.0"
+style="font-weight:bold; font-family:Arial; font-size:14.0px; color:#000000">
+Kakrana A<span style="font-weight:normal"> ,</span><span
+style="font-weight:normal"> Hammond</span><span
+style="font-weight:normal"> R,</span><span style="font-weight:normal">
+Patel</span><span style="font-weight:normal"> P,</span><span
+style="font-weight:normal"> Nakano</span><span
+style="font-weight:normal"> M,</span><span style="font-weight:normal">
+Meyer</span><span style="font-weight:normal"> BC</span><span
+style="font-weight:normal"> (2014)</span><span
+style="font-weight:normal"> sPARTA:</span><span
+style="font-weight:normal"> a</span><span style="font-weight:normal">
+parallelized</span><span style="font-weight:normal">
+pipeline</span><span style="font-weight:normal"> for</span><span
+style="font-weight:normal"> integrated</span><span
+style="font-weight:normal"> analysis</span></span>
+
+</div>
+
+<div id="_89:1318" class="pos" style="top:1318;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> of plant
+miRNA and cleaved mRNA data sets, including new miRNA
+target-identification software.<span style="font-style:italic">
+Nucleic</span><span style="font-style:italic"> Acids</span></span>
+
+</div>
+
+<div id="_89:1337" class="pos" style="top:1337;left:89">
+
+<span id="_14.0"
+style="font-style:italic; font-family:Arial; font-size:14.0px; color:#000000">
+Res<span style="font-style:normal"> .</span><span
+style="font-style:normal"> 42(18):e139</span><span
+style="font-weight:bold;font-style:normal"> (\*Fastest</span><span
+style="font-weight:bold;font-style:normal"> algorithm</span><span
+style="font-weight:bold;font-style:normal"> (&gt;500x),</span><span
+style="font-weight:bold;font-style:normal"> to</span><span
+style="font-weight:bold;font-style:normal"> date,</span><span
+style="font-weight:bold;font-style:normal"> for</span><span
+style="font-weight:bold;font-style:normal"> plant</span><span
+style="font-weight:bold;font-style:normal"> miRNA</span><span
+style="font-weight:bold;font-style:normal"> target</span><span
+style="font-weight:bold;font-style:normal"> identification</span><span
+style="font-weight:bold;font-style:normal"> and</span><span
+style="font-weight:bold;font-style:normal"> validation)</span></span>
+
+</div>
+
+<div id="_57:1358" class="pos" style="top:1358;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[3\]</span>
+
+</div>
+
+<div id="_89:1358" class="pos" style="top:1358;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Thompson
+BE, Basham C, Hammond R,<span style="font-weight:bold">
+Kakrana</span><span style="font-weight:bold"> A,</span> et al (2014) The
+dicer-like1 Homolog fuzzy tassel is required for</span>
+
+</div>
+
+<div id="_89:1376" class="pos" style="top:1376;left:89">
+
+<span id="_14.5"
+style=" font-family:Arial; font-size:14.5px; color:#000000"> the
+regulation of meristem determinacy in the inflorescence and vegetative
+growth in maize.<span style="font-style:italic"> Plant</span><span
+style="font-style:italic"> Cell.</span></span>
+
+</div>
+
+<div id="_89:1395" class="pos" style="top:1395;left:89">
+
+<span id="_14.5"
+style=" font-family:Arial; font-size:14.5px; color:#000000">
+26(12):4702-17</span>
+
+</div>
+
+<div id="_57:1416" class="pos" style="top:1416;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[2\]</span>
+
+</div>
+
+<div id="_89:1416" class="pos" style="top:1416;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Gong L<span
+style="font-weight:bold"> ,</span><span style="font-weight:bold">
+Kakrana</span><span style="font-weight:bold"> A</span> , Meyers BC,
+Wendel JF (2013) Composition and Expression of Conserved MicroRNA Genes
+in</span>
+
+</div>
+
+<div id="_89:1434" class="pos" style="top:1434;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Diploid
+Cotton (Gossypium) Species.<span style="font-style:italic">
+Genome</span><span style="font-style:italic"> Biol.</span><span
+style="font-style:italic"> Evol</span> . 5, 2449-59</span>
+
+</div>
+
+<div id="_57:1456" class="pos" style="top:1456;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[1\]</span>
+
+</div>
+
+<div id="_89:1456" class="pos" style="top:1456;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> Sirohi
+A,<span style="font-weight:bold"> Kakrana</span><span
+style="font-weight:bold"> A</span> , and Deepika. (2007). Random
+Amplified Polymorphic DNA (RAPD) markers for prediction of</span>
+
+</div>
+
+<div id="_89:1474" class="pos" style="top:1474;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> resistance
+in tomato against RKN,<span style="font-style:italic"> M.</span><span
+style="font-style:italic"> Incognita,</span><span
+style="font-style:italic"> Indian</span><span style="font-style:italic">
+Journal</span><span style="font-style:italic"> of</span><span
+style="font-style:italic"> Nematology</span> , 37: 182-187.</span>
+
+</div>
+
+<div id="_57:1514" class="pos" style="top:1514;left:57">
+
+<span id="_15.4"
+style="font-weight:bold; font-family:Arial; font-size:15.4px; color:#000000">
+Manuscripts Communicated or In-Preparation</span>
+
+</div>
+
+<div id="_57:1535" class="pos" style="top:1535;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[3\]</span>
+
+</div>
+
+<div id="_89:1535" class="pos" style="top:1535;left:89">
+
+<span id="_14.0"
+style="font-weight:bold; font-family:Arial; font-size:14.0px; color:#000000">
+Kakrana A<span style="font-weight:normal"> ,</span><span
+style="font-weight:normal"> Ho</span><span style="font-weight:normal">
+J,</span><span style="font-weight:normal"> Beebe</span><span
+style="font-weight:normal"> D,</span><span style="font-weight:normal">
+Wu</span><span style="font-weight:normal"> C,</span><span
+style="font-weight:normal"> Singh</span><span
+style="font-weight:normal"> A,</span><span style="font-weight:normal">
+Lachke</span><span style="font-weight:normal"> SA.</span><span
+style="font-weight:normal;font-style:italic"> iSyTE</span><span
+style="font-weight:normal"> :</span><span style="font-weight:normal">
+A</span><span style="font-weight:normal"> web-tool</span><span
+style="font-weight:normal"> for</span><span style="font-weight:normal">
+discovery</span><span style="font-weight:normal"> of</span><span
+style="font-weight:normal"> cataract</span><span
+style="font-weight:normal"> and</span><span style="font-weight:normal">
+lens-</span></span>
+
+</div>
+
+<div id="_89:1553" class="pos" style="top:1553;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> development
+genes. (<span style="font-style:italic"> In</span><span
+style="font-style:italic"> preparation</span> )</span>
+
+</div>
+
+<div id="_57:1573" class="pos" style="top:1573;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[2\]</span>
+
+</div>
+
+<div id="_89:1573" class="pos" style="top:1573;left:89">
+
+<span id="_13.9"
+style="font-weight:bold; font-family:Arial; font-size:13.9px; color:#000000">
+Kakrana A<span style="font-weight:normal"> ,</span><span
+style="font-weight:normal"> Mathioni</span><span
+style="font-weight:normal"> S,</span><span style="font-weight:normal">
+Huang</span><span style="font-weight:normal"> K,</span><span
+style="font-weight:normal"> Hammond</span><span
+style="font-weight:normal"> R,</span><span style="font-weight:normal">
+Patel</span><span style="font-weight:normal"> P,</span><span
+style="font-weight:normal"> Vandiver</span><span
+style="font-weight:normal"> L,</span><span style="font-weight:normal">
+Gregory</span><span style="font-weight:normal"> B,</span><span
+style="font-weight:normal"> Leebens-Mack</span><span
+style="font-weight:normal"> J,</span><span style="font-weight:normal">
+Meyers</span><span style="font-weight:normal"> BC.</span><span
+style="font-weight:normal"> Survey</span></span>
+
+</div>
+
+<div id="_89:1592" class="pos" style="top:1592;left:89">
+
+<span id="_13.9"
+style=" font-family:Arial; font-size:13.9px; color:#000000"> of phasiRNA
+pathway in non-grass monocots, uncovers widespread prevalence and unique
+plasticity. (<span style="font-style:italic"> Prepared</span></span>
+
+</div>
+
+<div id="_89:1611" class="pos" style="top:1611;left:89">
+
+<span id="_13.9"
+style="font-style:italic; font-family:Arial; font-size:13.9px; color:#000000">
+for submission<span style="font-style:normal"> )</span></span>
+
+</div>
+
+<div id="_57:1629" class="pos" style="top:1629;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[1\]</span>
+
+</div>
+
+<div id="_89:1629" class="pos" style="top:1629;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Siddam AD,
+Gautier-Courteille C, Anand D,<span style="font-weight:bold">
+Kakrana</span><span style="font-weight:bold"> A</span> , Dang CA,
+Paillard L, Lachke SA. The RNA-binding protein</span>
+
+</div>
+
+<div id="_89:1648" class="pos" style="top:1648;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Celf1
+mediates post-transcriptional control of p27 and Dnase2b in lens
+development. (<span style="font-style:italic"> Prepared</span><span
+style="font-style:italic"> for</span><span style="font-style:italic">
+submission</span> )</span>
+
+</div>
+
+<div id="_57:1687" class="pos" style="top:1687;left:57">
+
+<span id="_15.3"
+style="font-weight:bold; font-family:Arial; font-size:15.3px; color:#000000">
+Conference Paper and Invited Talk<span id="_14.0"
+style="font-weight:normal; font-size:14.0px"> (selected)</span></span>
+
+</div>
+
+<div id="_57:1707" class="pos" style="top:1707;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[3\]</span>
+
+</div>
+
+<div id="_89:1707" class="pos" style="top:1707;left:89">
+
+<span id="_14.0"
+style="font-weight:bold; font-family:Arial; font-size:14.0px; color:#000000">
+Kakrana A<span style="font-weight:normal"> ,</span><span
+style="font-weight:normal"> Mathioni</span><span
+style="font-weight:normal"> S,..,</span><span
+style="font-weight:normal"> Gregory</span><span
+style="font-weight:normal"> B,</span><span style="font-weight:normal">
+Leebens-Mack</span><span style="font-weight:normal"> J,</span><span
+style="font-weight:normal"> Meyers</span><span
+style="font-weight:normal"> BC.</span><span style="font-weight:normal">
+Phased,</span><span style="font-weight:normal"> secondary</span><span
+style="font-weight:normal"> siRNAs</span><span
+style="font-weight:normal"> in</span><span style="font-weight:normal">
+non-grass</span></span>
+
+</div>
+
+<div id="_89:1726" class="pos" style="top:1726;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000">
+monocots.<span style="font-style:italic"> Donald</span><span
+style="font-style:italic"> Danforth</span><span
+style="font-style:italic"> Scientific</span><span
+style="font-style:italic"> Retreat</span> , June-2016, St. Louis,
+MO.<span style="font-weight:bold"> (\*Awarded</span><span
+style="font-weight:bold"> best</span><span style="font-weight:bold">
+poster</span><span style="font-weight:bold"> presentation)</span></span>
+
+</div>
+
+<div id="_57:1746" class="pos" style="top:1746;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[2\]</span>
+
+</div>
+
+<div id="_89:1746" class="pos" style="top:1746;left:89">
+
+<span id="_14.2"
+style="font-weight:bold; font-family:Arial; font-size:14.2px; color:#000000">
+Kakrana A<span style="font-weight:normal"> ,..,</span><span
+style="font-weight:normal"> Lachke</span><span
+style="font-weight:normal"> S</span><span style="font-weight:normal">
+A.</span><span style="font-weight:normal"> Integration</span><span
+style="font-weight:normal"> of</span><span style="font-weight:normal">
+temporal</span><span style="font-weight:normal"> lens</span><span
+style="font-weight:normal"> gene-expression</span><span
+style="font-weight:normal"> datasets</span><span
+style="font-weight:normal"> to</span><span style="font-weight:normal">
+expand</span><span style="font-weight:normal"> the</span><span
+style="font-weight:normal"> gene-discovery</span><span
+style="font-weight:normal"> tool</span></span>
+
+</div>
+
+<div id="_89:1764" class="pos" style="top:1764;left:89">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> iSyTE.<span
+style="font-style:italic"> Association</span><span
+style="font-style:italic"> for</span><span style="font-style:italic">
+Research</span><span style="font-style:italic"> in</span><span
+style="font-style:italic"> Vision</span><span style="font-style:italic">
+and</span><span style="font-style:italic"> Ophthalmology</span> ,
+May-2014, Orlando, Florida.<span style="font-weight:bold">
+(\*Selected</span><span style="font-weight:bold"> for</span><span
+style="font-weight:bold"> platform</span></span>
+
+</div>
+
+<div id="_89:1783" class="pos" style="top:1783;left:89">
+
+<span id="_14.2"
+style="font-weight:bold; font-family:Arial; font-size:14.2px; color:#000000">
+presentation from \~5000 abstracts)</span>
+
+</div>
+
+<div id="_57:1802" class="pos" style="top:1802;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[1\]</span>
+
+</div>
+
+<div id="_89:1802" class="pos" style="top:1802;left:89">
+
+<span id="_14.2"
+style="font-weight:bold; font-family:Arial; font-size:14.2px; color:#000000">
+Kakrana A<span style="font-weight:normal"> ,</span><span
+style="font-weight:normal"> Kumar</span><span
+style="font-weight:normal"> A,</span><span style="font-weight:normal">
+Sirohi</span><span style="font-weight:normal"> A,</span><span
+style="font-weight:normal"> Jain</span><span style="font-weight:normal">
+PK</span><span style="font-weight:normal"> (2010)</span><span
+style="font-weight:normal"> Silencing</span><span
+style="font-weight:normal"> of</span><span style="font-weight:normal">
+parasitic</span><span style="font-weight:normal"> genes</span><span
+style="font-weight:normal"> mediating</span><span
+style="font-weight:normal"> nematode</span><span
+style="font-weight:normal"> infection</span><span
+style="font-weight:normal"> through</span></span>
+
+</div>
+
+<div id="_89:1820" class="pos" style="top:1820;left:89">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> host
+delivery mechanism using RNAi: Engendering artificial immunity in
+plants” at<span style="font-style:italic"> National</span><span
+style="font-style:italic"> conference</span><span
+style="font-style:italic"> on</span></span>
+
+</div>
+
+<div id="_89:1839" class="pos" style="top:1839;left:89">
+
+<span id="_14.2"
+style="font-style:italic; font-family:Arial; font-size:14.2px; color:#000000">
+innovations in nematological research for agricultural
+sustainability<span style="font-style:normal"> -</span><span
+style="font-style:normal"> Challenges</span><span
+style="font-style:normal"> and</span><span style="font-style:normal">
+road</span><span style="font-style:normal"> map</span><span
+style="font-style:normal"> ahead,</span><span style="font-style:normal">
+February-</span></span>
+
+</div>
+
+<div id="_89:1858" class="pos" style="top:1858;left:89">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> 2010,
+Coimbatore, India<span style="font-weight:bold"> (\*Awarded</span><span
+style="font-weight:bold"> best</span><span style="font-weight:bold">
+poster</span><span style="font-weight:bold"> presentation)</span></span>
+
+</div>
+
+<div id="_50:1898" class="pos" style="top:1898;left:50">
+
+<span id="_14.6"
+style="font-weight:bold; font-family:Arial; font-size:14.6px; color:#000000">
+Thesis Research</span>
+
+</div>
+
+<div id="_50:1921" class="pos" style="top:1921;left:50">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> 2007</span>
+
+</div>
+
+<div id="_107:1921" class="pos" style="top:1921;left:107">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> Master’s
+degree thesis on “Molecular characterisation of resistance in Tomato
+Cultivars against root knot</span>
+
+</div>
+
+<div id="_107:1939" class="pos" style="top:1939;left:107">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> nematode”
+at<span style="font-weight:bold;font-style:italic"> Indian</span><span
+style="font-weight:bold;font-style:italic"> Agricultural</span><span
+style="font-weight:bold;font-style:italic"> Research</span><span
+style="font-weight:bold;font-style:italic"> Institute</span> ( New
+Delhi), India</span>
+
+</div>
+
+<div id="_50:1958" class="pos" style="top:1958;left:50">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> 2004</span>
+
+</div>
+
+<div id="_107:1958" class="pos" style="top:1958;left:107">
+
+<span id="_13.9"
+style=" font-family:Arial; font-size:13.9px; color:#000000"> Bachelor’s
+degree thesis on “Study of Phospholipase A<span id="_8.9"
+style=" font-size:8.9px"> 2</span> in allergic asthma” at<span
+style="font-weight:bold;font-style:italic"> Institute</span><span
+style="font-weight:bold;font-style:italic"> of</span><span
+style="font-weight:bold;font-style:italic"> Genomics</span><span
+style="font-weight:bold;font-style:italic"> and</span></span>
+
+</div>
+
+<div id="_107:1977" class="pos" style="top:1977;left:107">
+
+<span id="_13.9"
+style="font-weight:bold;font-style:italic; font-family:Arial; font-size:13.9px; color:#000000">
+Integrative Biology<span style="font-weight:normal"> ,</span><span
+style="font-weight:normal"> Council</span><span
+style="font-weight:normal"> of</span><span style="font-weight:normal">
+Scientific</span><span style="font-weight:normal"> and</span><span
+style="font-weight:normal"> Industrial</span><span
+style="font-weight:normal"> Research</span><span
+style="font-weight:normal;font-style:normal"> (New</span><span
+style="font-weight:normal;font-style:normal"> Delhi),</span><span
+style="font-weight:normal;font-style:normal"> India</span></span>
+
+</div>
+
+<div id="_57:2016" class="pos" style="top:2016;left:57">
+
+<span id="_14.7"
+style="font-weight:bold; font-family:Arial; font-size:14.7px; color:#000000">
+Workshops and Trainings</span>
+
+</div>
+
+<div id="_57:2037" class="pos" style="top:2037;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+June,</span>
+
+</div>
+
+<div id="_113:2037" class="pos" style="top:2037;left:113">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> OpenACC GPU
+programming workshop conducted by<span style="font-weight:bold">
+NVIDIA</span><span style="font-weight:bold"> &</span><span
+style="font-weight:bold"> PGI</span><span style="font-weight:bold">
+Compiler</span><span style="font-weight:bold"> teams</span> at<span
+style="font-style:italic"> University</span><span
+style="font-style:italic"> of</span><span style="font-style:italic">
+Delaware</span> ,</span>
+
+</div>
+
+<div id="_57:2055" class="pos" style="top:2055;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> 2016</span>
+
+</div>
+
+<div id="_113:2055" class="pos" style="top:2055;left:113">
+
+<span id="_14.3"
+style=" font-family:Arial; font-size:14.3px; color:#000000"> DE.
+Training and hands-on experience on implementing OpenACC for high
+performance computing</span>
+
+</div>
+
+<div id="_57:2080" class="pos" style="top:2080;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+June,</span>
+
+</div>
+
+<div id="_113:2080" class="pos" style="top:2080;left:113">
+
+<span id="_13.9"
+style="font-style:italic; font-family:Arial; font-size:13.9px; color:#000000">
+Pacific Bioscience user’s workshop<span style="font-style:normal">
+conducted</span><span style="font-style:normal"> by</span><span
+style="font-weight:bold;font-style:normal"> Pacific</span><span
+style="font-weight:bold;font-style:normal"> Biosciences</span><span
+style="font-style:normal"> at</span> University of Maryland BioPark<span
+style="font-style:normal"> ,</span><span style="font-style:normal">
+MD.</span></span>
+
+</div>
+
+<div id="_57:2098" class="pos" style="top:2098;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> 2015</span>
+
+</div>
+
+<div id="_113:2098" class="pos" style="top:2098;left:113">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> Advance
+training on transcriptome and genome assembly, and secondary analysis of
+SMRT-sequencing data</span>
+
+</div>
+
+<div id="_748:2132" class="pos" style="top:2132;left:748">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> Page |
+2</span>
+
+</div>
+
+<div id="_0:0" class="pos" style="top:2200">
+
+![](page_003.jpg){width="850" height="1100"}
+
+</div>
+
+<div id="_57:2266" class="pos" style="top:2266;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+Sept,</span>
+
+</div>
+
+<div id="_113:2266" class="pos" style="top:2266;left:113">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000">
+Bioinformatics and Comp. Biology workshop conducted by<span
+style="font-weight:bold"> Supercomputing</span><span
+style="font-weight:bold"> Facility</span><span style="font-weight:bold">
+for</span><span style="font-weight:bold"> Bioinformatics</span><span
+style="font-weight:bold"> and</span></span>
+
+</div>
+
+<div id="_57:2285" class="pos" style="top:2285;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> 2009</span>
+
+</div>
+
+<div id="_113:2285" class="pos" style="top:2285;left:113">
+
+<span id="_14.2"
+style="font-weight:bold; font-family:Arial; font-size:14.2px; color:#000000">
+Computational Biology<span style="font-weight:normal;font-style:italic">
+,</span><span style="font-weight:normal;font-style:italic">
+Indian</span><span style="font-weight:normal;font-style:italic">
+Institute</span><span style="font-weight:normal;font-style:italic">
+of</span><span style="font-weight:normal;font-style:italic">
+Technology</span><span style="font-weight:normal;font-style:italic">
+(New</span><span style="font-weight:normal;font-style:italic">
+Delhi)</span><span style="font-weight:normal"> ,</span><span
+style="font-weight:normal"> India.</span><span
+style="font-weight:normal"> Training</span><span
+style="font-weight:normal"> on</span><span style="font-weight:normal">
+genome</span><span style="font-weight:normal"> analysis,</span><span
+style="font-weight:normal"> protein</span></span>
+
+</div>
+
+<div id="_113:2304" class="pos" style="top:2304;left:113">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> folding,
+drub design and high-performance computing approaches.</span>
+
+</div>
+
+<div id="_57:2328" class="pos" style="top:2328;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> Jun-</span>
+
+</div>
+
+<div id="_113:2328" class="pos" style="top:2328;left:113">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> Molecular
+biology & biochemical techniques at<span
+style="font-weight:bold;font-style:italic"> National</span><span
+style="font-weight:bold;font-style:italic"> Institute</span><span
+style="font-weight:bold;font-style:italic"> of</span><span
+style="font-weight:bold;font-style:italic"> Communicable</span><span
+style="font-weight:bold;font-style:italic"> Diseases</span><span
+style="font-style:italic"> ,</span><span style="font-style:italic">
+Ministry</span><span style="font-style:italic"> of</span></span>
+
+</div>
+
+<div id="_57:2346" class="pos" style="top:2346;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> Aug,</span>
+
+</div>
+
+<div id="_113:2346" class="pos" style="top:2346;left:113">
+
+<span id="_14.4"
+style="font-style:italic; font-family:Arial; font-size:14.4px; color:#000000">
+Health and Welfare<span style="font-style:normal"> (New</span><span
+style="font-style:normal"> Delhi),</span><span
+style="font-style:normal"> India</span> .<span
+style="font-style:normal"> Training</span><span
+style="font-style:normal"> on</span><span style="font-style:normal">
+biochemical</span><span style="font-style:normal"> &</span><span
+style="font-style:normal"> molecular</span><span
+style="font-style:normal"> biology</span><span
+style="font-style:normal"> techniques</span><span
+style="font-style:normal"> to</span><span style="font-style:normal">
+study</span></span>
+
+</div>
+
+<div id="_57:2365" class="pos" style="top:2365;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> 2006</span>
+
+</div>
+
+<div id="_113:2365" class="pos" style="top:2365;left:113">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> zoonotic
+diseases like dengue, chikungunya & rabies.</span>
+
+</div>
+
+<div id="_57:2389" class="pos" style="top:2389;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> May-</span>
+
+</div>
+
+<div id="_113:2389" class="pos" style="top:2389;left:113">
+
+<span id="_14.3"
+style=" font-family:Arial; font-size:14.3px; color:#000000">
+Immunological Techniques & Ag-Ab Interactions at<span
+style="font-style:italic"> Jain</span><span style="font-style:italic">
+Institute</span><span style="font-style:italic"> of</span><span
+style="font-style:italic"> Vocational</span><span
+style="font-style:italic"> and</span><span style="font-style:italic">
+Advanced</span><span style="font-style:italic"> Studies</span></span>
+
+</div>
+
+<div id="_57:2408" class="pos" style="top:2408;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+June,</span>
+
+</div>
+
+<div id="_113:2408" class="pos" style="top:2408;left:113">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000">
+(Bangalore), India. Training on diagnostic and research techniques based
+on Ag-Ab interactions.</span>
+
+</div>
+
+<div id="_57:2427" class="pos" style="top:2427;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> 2003</span>
+
+</div>
+
+<div id="_57:2463" class="pos" style="top:2463;left:57">
+
+<span id="_14.9"
+style="font-weight:bold; font-family:Arial; font-size:14.9px; color:#000000">
+Conferences Attended</span>
+
+</div>
+
+<div id="_57:2483" class="pos" style="top:2483;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[8\]</span>
+
+</div>
+
+<div id="_89:2483" class="pos" style="top:2483;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> Association
+for Research in Vision and Ophthalmology (ARVO) annual meeting,
+May-2016, Seattle, WA</span>
+
+</div>
+
+<div id="_57:2505" class="pos" style="top:2505;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[7\]</span>
+
+</div>
+
+<div id="_89:2505" class="pos" style="top:2505;left:89">
+
+<span id="_13.9"
+style=" font-family:Arial; font-size:13.9px; color:#000000"> Plant &
+Animal Genome (PAG) Conference XXIV, January-2016, San Diego, CA</span>
+
+</div>
+
+<div id="_57:2526" class="pos" style="top:2526;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[6\]</span>
+
+</div>
+
+<div id="_89:2526" class="pos" style="top:2526;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000">
+International Society for Computational Biology (ISCB)/RECOMB Conference
+for Regulatory & Systems Genomics,</span>
+
+</div>
+
+<div id="_89:2547" class="pos" style="top:2547;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Nov-2015,
+Philadelphia, PA</span>
+
+</div>
+
+<div id="_57:2569" class="pos" style="top:2569;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[5\]</span>
+
+</div>
+
+<div id="_89:2569" class="pos" style="top:2569;left:89">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> Americas
+User Group meeting, June-2015, Institute for Genome Sciences, University
+of Maryland, Baltimore, MD</span>
+
+</div>
+
+<div id="_57:2590" class="pos" style="top:2590;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[4\]</span>
+
+</div>
+
+<div id="_89:2590" class="pos" style="top:2590;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> Association
+for Research in Vision and Ophthalmology (ARVO) annual meeting,
+May-2015, Denver, CO</span>
+
+</div>
+
+<div id="_57:2612" class="pos" style="top:2612;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[3\]</span>
+
+</div>
+
+<div id="_89:2612" class="pos" style="top:2612;left:89">
+
+<span id="_14.2"
+style=" font-family:Arial; font-size:14.2px; color:#000000"> Association
+for Research in Vision and Ophthalmology (ARVO) annual meeting,
+May-2014, Orlando, Florida</span>
+
+</div>
+
+<div id="_57:2633" class="pos" style="top:2633;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[2\]</span>
+
+</div>
+
+<div id="_89:2633" class="pos" style="top:2633;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000">
+International Conference on Research in Computational Molecular Biology
+(RECOMB), April-2014, Pittsburg, PA</span>
+
+</div>
+
+<div id="_57:2655" class="pos" style="top:2655;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[1\]</span>
+
+</div>
+
+<div id="_89:2655" class="pos" style="top:2655;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000">
+Mid-Atlantic Section of American Society of Plant Biologists (ASPB)
+meeting, April-2014, Delaware Biotechnology</span>
+
+</div>
+
+<div id="_89:2673" class="pos" style="top:2673;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> Institute,
+University of Delaware, DE</span>
+
+</div>
+
+<div id="_57:2711" class="pos" style="top:2711;left:57">
+
+<span id="_14.9"
+style="font-weight:bold; font-family:Arial; font-size:14.9px; color:#000000">
+Memberships</span>
+
+</div>
+
+<div id="_57:2731" class="pos" style="top:2731;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[3\]</span>
+
+</div>
+
+<div id="_89:2731" class="pos" style="top:2731;left:89">
+
+<span id="_14.0"
+style=" font-family:Arial; font-size:14.0px; color:#000000"> Member,
+American Society of Plant Biologists (ASPB), since 2012</span>
+
+</div>
+
+<div id="_57:2752" class="pos" style="top:2752;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[2\]</span>
+
+</div>
+
+<div id="_89:2752" class="pos" style="top:2752;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> Member,
+Association for research in Vision and Ophthalmology (ARVO), since
+2012</span>
+
+</div>
+
+<div id="_57:2774" class="pos" style="top:2774;left:57">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000">
+\[1\]</span>
+
+</div>
+
+<div id="_89:2774" class="pos" style="top:2774;left:89">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> Member,
+International Society for Computational Biology (ISCB), since
+2013</span>
+
+</div>
+
+<div id="_57:2811" class="pos" style="top:2811;left:57">
+
+<span id="_14.5"
+style="font-weight:bold; font-family:Arial; font-size:14.5px; color:#000000">
+Technical Skills</span>
+
+</div>
+
+<div id="_57:2832" class="pos" style="top:2832;left:57">
+
+<span id="_14.1"
+style="font-weight:bold; font-family:Arial; font-size:14.1px; color:#000000">
+Bio-Informatics<span style="font-weight:normal"> (6</span><span
+style="font-weight:normal"> yrs.</span><span style="font-weight:normal">
+experience)</span></span>
+
+</div>
+
+<div id="_82:2850" class="pos" style="top:2850;left:82">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> </span>
+Development of<span style="font-weight:bold">
+high-performance</span><span style="font-weight:bold"> tools</span><span
+style="font-weight:bold"> and</span><span style="font-weight:bold">
+algorithms</span> for study-specific analyses and visualization of high-
+
+</div>
+
+<div id="_107:2869" class="pos" style="top:2869;left:107">
+
+<span id="_14.8"
+style=" font-family:Arial; font-size:14.8px; color:#000000"> throughput
+data</span>
+
+</div>
+
+<div id="_82:2887" class="pos" style="top:2887;left:82">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> </span>
+Genome-, transcriptome-assembly and expression profiling using<span
+style="font-weight:bold"> next-</span><span style="font-weight:bold">
+(and</span><span style="font-weight:bold"> fourth-)</span><span
+style="font-weight:bold"> generation</span><span
+style="font-weight:bold"> sequencing</span>
+
+</div>
+
+<div id="_82:2906" class="pos" style="top:2906;left:82">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> </span>
+Systems-level<span style="font-weight:bold"> modelling</span><span
+style="font-weight:bold"> of</span><span style="font-weight:bold">
+biological</span><span style="font-weight:bold"> pathways</span><span
+style="font-weight:bold"> to</span><span style="font-weight:bold">
+discover</span><span style="font-weight:bold"> gene</span><span
+style="font-weight:bold"> functions</span> , and new coding and
+non-coding
+
+</div>
+
+<div id="_107:2925" class="pos" style="top:2925;left:107">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000">
+regulators</span>
+
+</div>
+
+<div id="_57:2949" class="pos" style="top:2949;left:57">
+
+<span id="_14.1"
+style="font-weight:bold; font-family:Arial; font-size:14.1px; color:#000000">
+Informatics<span style="font-weight:normal"> (8</span><span
+style="font-weight:normal"> yrs.</span><span style="font-weight:normal">
+experience)</span></span>
+
+</div>
+
+<div id="_82:2968" class="pos" style="top:2968;left:82">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> </span>
+Expert in<span style="font-weight:bold"> Python,</span><span
+style="font-weight:bold"> R</span> (including Bioconductor) and shell
+scripting
+
+</div>
+
+<div id="_82:2986" class="pos" style="top:2986;left:82">
+
+<span id="_14.1"
+style=" font-family:Arial; font-size:14.1px; color:#000000"> </span>
+Proficient in (<span style="font-weight:bold"> MySQL</span> ) database
+design, development and maintenance for storing next-generation
+sequencing
+
+</div>
+
+<div id="_107:3005" class="pos" style="top:3005;left:107">
+
+<span id="_14.6"
+style=" font-family:Arial; font-size:14.6px; color:#000000"> and
+high-throughput data into the relational databases.</span>
+
+</div>
+
+<div id="_82:3024" class="pos" style="top:3024;left:82">
+
+<span id="_14.6"
+style=" font-family:Arial; font-size:14.6px; color:#000000"> </span>
+Experienced (10 yrs.) in Unix/Linux development environment including
+server administration
+
+</div>
+
+<div id="_57:3048" class="pos" style="top:3048;left:57">
+
+<span id="_14.6"
+style="font-weight:bold; font-family:Arial; font-size:14.6px; color:#000000">
+Molecular Biology<span style="font-weight:normal"> (4</span><span
+style="font-weight:normal"> yrs.</span><span style="font-weight:normal">
+experience)</span></span>
+
+</div>
+
+<div id="_82:3066" class="pos" style="top:3066;left:82">
+
+<span id="_13.9"
+style=" font-family:Arial; font-size:13.9px; color:#000000"> </span>
+Gene Expression Profiling (RT-PCR and Subtractive hybridization),
+RLM-RACE, DNA-sequencing etc.
+
+</div>
+
+<div id="_82:3085" class="pos" style="top:3085;left:82">
+
+<span id="_14.4"
+style=" font-family:Arial; font-size:14.4px; color:#000000"> </span>
+Molecular (gene) cloning and transformation
+
+</div>
+
+<div id="_748:3232" class="pos" style="top:3232;left:748">
+
+<span id="_15.0"
+style=" font-family:Arial; font-size:15.0px; color:#000000"> Page |
+3</span>
+
+</div>
