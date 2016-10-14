@@ -12,14 +12,12 @@ description:      'A brazen two-column'
 url:              http://atulkakrana.github.io
 baseurl:          /
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+# Social Buttons
+social:
+  - title: "github"
+    url: "https://github.com/atulkakrana"
+  - title: "google scholar"
+    url: "https://scholar.google.com/citations?user=virwGJEAAAAJ&hl=en&authuser=1"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/atulkakrana"
 
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
