@@ -3,11 +3,12 @@ layout: page
 title: Curriculum Vitae
 ---
 
-##Atul Kakrana
-Suite 224, 15 th Innovation Way
+## Atul Kakrana
+Suite 224, 15th Innovation Way
 (302) 784-5478
 Delaware Biotechnology Institute,
 kakrana@udel.edu
 Newark, DE
 
-###Education###
+### Education
+2011-present: Doctor of Philosophy (PhD.) in Bioinformatics and Systems Biology from *University of Delaware* , USA
